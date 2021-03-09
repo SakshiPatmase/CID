@@ -9,6 +9,8 @@ public class BasicCalculator {
 			{
 				sum=sum+num;
 			}
+			
+			
 			return sum;
 		}
 }
