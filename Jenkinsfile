@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Test') {
             steps{
-                sh 'echo run junit test cases'
+                bat 'Junit is running test cases'
             }
         }
     }
